@@ -23,4 +23,4 @@ rm *.zip
 ```
 
 Files:
- * [Exploratory Data Analysis.ipynb](exploratory-data-analysis.ipynb) - Data exploration notebook.
+ * [exploratory-data-analysis.ipynb](exploratory-data-analysis.ipynb) - Data exploration notebook.
