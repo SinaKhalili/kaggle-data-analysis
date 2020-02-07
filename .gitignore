@@ -1,3 +1,7 @@
+# Project specific
+images_sample/
+train.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
