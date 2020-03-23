@@ -26,3 +26,4 @@ Files:
  * [exploratory-data-analysis.ipynb](exploratory-data-analysis.ipynb) - Data exploration notebook.
  * [XGboosting.ipynb](XGboosting.ipynb) - Data mining using various versions of XGboosting.
  * [Random Forest](Milestone3codeRandomForest.ipynb) - Data mining using random forests
+ * [K-Nearest-Neighbours Classifier](KNN.ipynb) - Data mining using KNN classifier
